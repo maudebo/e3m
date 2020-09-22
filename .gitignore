@@ -1,0 +1,12 @@
+.sass-cache
+.sass-cache/*
+.codekit-cache
+.DS_Store
+*/.DS_Store
+config.codekit
+node_modules
+/node_modules
+/node_modules/*
+/wp-content/themes/phantomintelligence-site-com/gulpfile.js
+/wp-config.php
+gulpfile.js
