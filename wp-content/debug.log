@@ -279,3 +279,7 @@ Stack trace:
 [23-Sep-2020 18:33:11 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\e3mtechnologie-com\wp-content\themes\e3m\template-home.php on line 42
 [23-Sep-2020 18:33:11 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\e3mtechnologie-com\wp-content\themes\e3m\template-home.php on line 43
 [24-Sep-2020 02:54:38 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\e3mtechnologie-com\wp-content\themes\e3m\template-home.php on line 14
+[24-Sep-2020 13:42:43 UTC] PHP Notice:  Undefined variable: champs_customs in C:\xampp\htdocs\e3mtechnologie-com\wp-content\themes\e3m\includes\menu\menu-desktop.php on line 66
+[24-Sep-2020 13:42:44 UTC] PHP Notice:  Undefined variable: champs_customs in C:\xampp\htdocs\e3mtechnologie-com\wp-content\themes\e3m\includes\menu\menu-desktop.php on line 66
+[24-Sep-2020 13:42:44 UTC] PHP Notice:  Undefined variable: champs_customs in C:\xampp\htdocs\e3mtechnologie-com\wp-content\themes\e3m\includes\menu\menu-desktop.php on line 66
+[24-Sep-2020 17:18:14 UTC] PHP Notice:  Undefined index: region in C:\xampp\htdocs\e3mtechnologie-com\wp-content\plugins\mailgun\includes\wp-mail-api.php on line 117
